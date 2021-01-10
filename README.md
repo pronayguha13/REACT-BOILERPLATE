@@ -18,7 +18,7 @@ In the project directory, you can run:
 ### ` yarn install` or `npm install`
 
 Install all the dependencies listed in the package.json file. \
-It will generate a node_modules folder . \
+It will generate a node_modules folder . 
 
 ### `yarn start`
 
